@@ -97,3 +97,10 @@ Print the latches in 100% infill and Arachne wall generator.
 Most of the parts are designed to be printed without support, and some of them have built-in support.
 
 I'll provide recommended print orientation inside each part's readme.
+
+# Support this project
+If you like my work, feel free to by me a coffe:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noisyfox)
+
+[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian">](https://afdian.net/a/noisyfox)

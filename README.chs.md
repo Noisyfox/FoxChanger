@@ -97,3 +97,10 @@ __请注意：所有商品链接只是为了举例，与本人没有任何利益
 大部分打印件都不需要支撑便可打印，少部分打印件有设计内置支撑结构，需要在组装时移除。
 
 每个组件的说明里将提供建议的打印摆放朝向，以供参考。
+
+# 支持本项目
+如果你喜欢我的工作，可以考虑支持我:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/noisyfox)
+
+[<img width="200" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afdian">](https://afdian.net/a/noisyfox)
