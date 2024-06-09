@@ -3,6 +3,11 @@ Voron 2.4/Trident tool changer mod inspired by Prusa XL toolchanger.
 
 No customized/homemade metal parts required, 100% off-the-shelf parts without any post-processing/modification, except for 3d-printed parts of course.
 
+[Demo video](https://www.bilibili.com/video/BV1c142117zm)
+
+![](./imgs/1.jpg)
+![](./imgs/2.jpg)
+
 # Credit
 This project is based on the following excellent works:
 - [VORON Design](https://vorondesign.com/)

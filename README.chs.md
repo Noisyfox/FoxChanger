@@ -3,6 +3,11 @@ Voron 2.4/Trident换头模组，类Prusa XL。
 
 无需任何自制、定制金属件，完全由现成的标准五金件组成，且完全不需要后期加工。
 
+[演示视频](https://www.bilibili.com/video/BV1c142117zm)
+
+![](./imgs/1.jpg)
+![](./imgs/2.jpg)
+
 # 鸣谢
 本项目基于和/或受到以下项目的启发与帮助:
 - [VORON Design](https://vorondesign.com/)
