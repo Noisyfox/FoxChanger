@@ -1,3 +1,5 @@
+[中文版点我](./README.chs.md)
+
 [Demo video](https://www.bilibili.com/video/BV1hH4y1u7oX/)
 
 This is a simple but accurate nozzle alignment probe that works with [viesturz's NozzleAlign](https://github.com/viesturz/NozzleAlign).

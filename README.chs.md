@@ -1,4 +1,6 @@
 # FoxChanger
+[English](./README.md)
+
 Voron 2.4/Trident换头模组，类Prusa XL。
 
 无需任何自制、定制金属件，完全由现成的标准五金件组成，且完全不需要后期加工。

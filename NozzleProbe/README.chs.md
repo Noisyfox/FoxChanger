@@ -1,3 +1,5 @@
+[English](./README.md)
+
 [演示视频](https://www.bilibili.com/video/BV1hH4y1u7oX/)
 
 这是一个简单但是精准的喷嘴偏移校准传感器，配合[viesturz的NozzleAlign工具](https://github.com/viesturz/NozzleAlign)使用。

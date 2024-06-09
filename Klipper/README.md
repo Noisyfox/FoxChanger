@@ -1,3 +1,5 @@
+[中文版点我](./README.chs.md)
+
 # Klipper setup
 
 The config here is just the setup I'm using.

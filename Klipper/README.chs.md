@@ -1,3 +1,5 @@
+[English](./README.md)
+
 # Klipper配置
 
 这些只是我在用的配置，经供参考。

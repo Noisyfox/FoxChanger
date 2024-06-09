@@ -1,3 +1,5 @@
+[English](./README.md)
+
 ## 安装
 1. 在下半部分安装光轴。用fitting.step来在插入光轴时辅助固定。
 2. 安装热熔螺母和铜轴套。用toolchanger/ring_pusher.STEP来插入轴套。避免用任何硬质工具，否则可能会损伤轴套导致阻力增加！

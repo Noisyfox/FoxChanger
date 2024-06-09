@@ -1,3 +1,5 @@
+[中文版点我](./README.chs.md)
+
 ## Install
 1. Install the linear guide rail on the bottom part. Use fitting.STEP to help pushing the rails in.
 2. Install the heat set and bronze bearing. Use ring_pusher.STEP from toolchanger to help pushing the bearing in. Avoid using any metal tools to push the bearing in, otherwise you might damage it and increasing the friction!
