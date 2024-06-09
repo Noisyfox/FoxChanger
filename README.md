@@ -69,3 +69,14 @@ Heatbed z probe sensor made with 4 20mm piezo disks and an off-the-shelf analog 
 - Omron D2FC-f-7N micro-switch, or any other compatiable ones (x1)
 - 6\*8\*3(inner\*outer\*height) sintered porous bronze bearing (x1)
 
+
+# Print
+Print most of the parts with the same settings as what Voron recommended.
+
+I print most parts in PETG, except the latch, x carriage frame, dragon burner back plate and piezo probes which are printed in PETG-CF.
+
+Print the latches in 100% infill and Arachne wall generator.
+
+Most of the parts are designed to be printed without support, and some of them have built-in support.
+
+I'll provide recommended print orientation inside each part's readme.
