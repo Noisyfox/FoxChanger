@@ -30,4 +30,3 @@ PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_ini
 
 ### 耗材丝设置
 - 卸载后延迟: 2
-- 冷却移动次数: 2

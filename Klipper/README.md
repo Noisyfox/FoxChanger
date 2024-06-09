@@ -30,4 +30,3 @@ PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_ini
 
 ### Filament settings
 - Delay after unloading: 2
-- Number of cooling moves: 2
