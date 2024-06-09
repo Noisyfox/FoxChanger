@@ -3,6 +3,16 @@ Voron 2.4/Trident换头模组，类Prusa XL。
 
 无需任何自制、定制金属件，完全由现成的标准五金件组成，且完全不需要后期加工。
 
+# 鸣谢
+本项目基于和/或受到以下项目的启发与帮助:
+- [VORON Design](https://vorondesign.com/)
+- [Klipper](https://www.klipper3d.org/)
+- [Prusa Research](https://www.prusa3d.com/)的Prusa XL, 给我们带来的这种换头的机械结构设计
+- [Viesturs Zariņš](https://github.com/viesturz)的tapchanger, klipper-toolchanger和nozzle align
+- [3DUnplugged](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w)对Prusa XL换头机构的详细分析，以及他的DAKSH tool changer V2设计也给我很大启发
+- [diedirk](https://www.printables.com/@diedirk_282928)的Sherpa Zero ECAS挤出机
+- [KayosMaker](https://github.com/KayosMake)的CAN板固定器
+- [chirpy2605](https://github.com/chirpy2605)的DragonBurner工具头设计
 
 # 硬件概览
 本模组由以下3个部分组成:

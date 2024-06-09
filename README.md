@@ -3,6 +3,16 @@ Voron 2.4/Trident tool changer mod inspired by Prusa XL toolchanger.
 
 No customized/homemade metal parts required, 100% off-the-shelf parts without any post-processing/modification, except for 3d-printed parts of course.
 
+# Credit
+This project is based on the following excellent works:
+- [VORON Design](https://vorondesign.com/)
+- [Klipper](https://www.klipper3d.org/)
+- [Prusa Research](https://www.prusa3d.com/) for their Prusa XL, that created this toolhead locking mechanism
+- [Viesturs Zariņš](https://github.com/viesturz) for tapchanger, klipper-toolchanger and nozzle align
+- [3DUnplugged](https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w) for his excellent analysis on Prusa XL's toolchanger, and his DAKSH tool changer V2 design
+- [diedirk](https://www.printables.com/@diedirk_282928) for Sherpa Zero ECAS extruder
+- [KayosMaker](https://github.com/KayosMake) for canboard mount
+- [chirpy2605](https://github.com/chirpy2605) for the DragonBurner toolhead
 
 # Hardware Overview
 This mod contains the following 3 parts:
