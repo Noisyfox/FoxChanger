@@ -18,8 +18,18 @@
 - 启用耗材尖端成型: false
 - 耗材丝更换 G-code:
 ```
-M104 T[next_extruder] S[new_filament_temp]
-T[next_extruder]
+; [toolchange_count]
+M104 T[next_extruder] S[new_filament_temp] ; preheating the next toolhead
+
+M204 S9000
+{if toolchange_count > 1 && (z_hop_types[current_extruder] == 0 || z_hop_types[current_extruder] == 3)}
+G17
+G2 Z{z_after_toolchange + 0.4} I0.86 J0.86 P1 F10000 ; spiral lift a little from second lift
+{endif}
+
+T[next_extruder] X=[x_after_toolchange] Y=[y_after_toolchange] Z=[z_after_toolchange]
+
+G1 X[x_after_toolchange] Y[y_after_toolchange] Z[z_after_toolchange] F12000 ; make gcode preview happy
 ```
 - 打印机起始 Gcode:
 ```
