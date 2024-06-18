@@ -27,9 +27,12 @@ G17
 G2 Z{z_after_toolchange + 0.4} I0.86 J0.86 P1 F10000 ; spiral lift a little from second lift
 {endif}
 
+{if toolchange_count > 1}
 T[next_extruder] X=[x_after_toolchange] Y=[y_after_toolchange] Z=[z_after_toolchange]
-
 G1 X[x_after_toolchange] Y[y_after_toolchange] Z[z_after_toolchange] F12000 ; make gcode preview happy
+{else}
+T[next_extruder]
+{endif}
 ```
 - Start Gcode:
 ```
