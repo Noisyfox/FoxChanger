@@ -18,7 +18,7 @@ The config here is just the setup I'm using.
 - Enable filament ramming: false
 - Change filament G-code:
 ```
-; [toolchange_count]
+M104 T[current_extruder] S[old_filament_temp] ; fix issue that current temp is set to next filament during unload
 M104 T[next_extruder] S[new_filament_temp] ; preheating the next toolhead
 
 M204 S9000
