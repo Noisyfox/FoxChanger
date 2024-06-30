@@ -42,8 +42,8 @@ __Note: All shop links are not affiliate links! Just for examples!__
   - 1\*8(PHi\*length) stainless steel round head cylindrical positioning pin (x4)
   - 0.3\*3\*5(PHi\*outer\*length) 304 stainless steel spring (x4)
   - M3\*8 SHCS (x4)
-  - M3\*12 SHCS (x4)
-  - M3 heat set insert (x4)
+  - M3\*12 SHCS (x2)
+  - M3 heat set insert (x2)
 - Toolhead mount
   - 1\*2\*8\*1(short\*long\*width\*thickness) steel angle with 3mm holes (x2)
   - 6\*4\*8\*M3 cone head positioning pin (x3)
